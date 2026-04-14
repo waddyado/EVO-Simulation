@@ -95,20 +95,6 @@ While behavior is qualitatively similar to historical observations, this simulat
 
 ---
 
-## Final Conclusion
-
-The simulation provides strong evidence that the proposed EV framework is **internally consistent and capable of producing stable, coherent, transport-capable structures**.
-
-However, it remains a **theoretical and computational validation**, not an experimental one.
-
-The next steps required are:
-1. Parameter-space mapping
-2. Quantization emergence
-3. Controlled collapse modeling
-4. Experimental validation
-
----
-
 ## Summary Statement
 
 This simulation demonstrates that the EV theory can produce a **stable, bounded, coherent dynamical object**, but it does not yet prove physical existence, energy anomalies, or experimental realizability.
