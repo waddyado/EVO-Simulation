@@ -1,4 +1,4 @@
-# EVO Simulation Conclusion (Updated)
+# EVO Simulation Conclusion
 
 ## Overview
 
