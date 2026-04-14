@@ -1,11 +1,5 @@
 # EVO Simulation Conclusion
 
-## Overview
-
-This simulation run represents a significant advancement over prior runs. The system now exhibits a **full dynamical lifecycle**, including initial high-energy behavior, intermittent collapse events, and transition into a sustained, stable oscillatory regime.
-
----
-
 ## What This Simulation Demonstrates
 
 ### 1. Existence of a Stable EV Attractor Regime
