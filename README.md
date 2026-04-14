@@ -12,6 +12,8 @@ Interactive desktop simulator for EV Field Theory v1, implemented in pure Python
 
 Main script: `evo_simulation_3d.py`
 
+![Simulator dashboard](sim.png)
+
 ---
 
 ## 1) What This Program Does
