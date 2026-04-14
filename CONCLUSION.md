@@ -61,26 +61,23 @@ This aligns with the emission law and supports the idea of **internal-mode-drive
 
 ## What This Simulation Does NOT Yet Prove
 
-### 1. Physical Reality of EVs
-The simulation is a mathematical model. It does not prove that EVs exist in nature.
-
 ---
 
-### 2. Energy Gain or “Free Energy”
+### 1. Energy Gain or “Free Energy”
 There is no demonstrated violation of conservation of energy. The simulation does NOT show:
 - Net energy gain
 - Energy extraction beyond input
 
 ---
 
-### 3. Quantization of Radius
+### 2. Quantization of Radius
 The radius remains continuous. The model has not yet demonstrated:
 - Discrete preferred radii
 - Quantized structural states
 
 ---
 
-### 4. Real Collapse Phenomena
+### 3. Real Collapse Phenomena
 The current stable regime avoids collapse. Therefore, it does not yet validate:
 - Radiation bursts
 - High-energy collapse behavior
@@ -88,7 +85,7 @@ The current stable regime avoids collapse. Therefore, it does not yet validate:
 
 ---
 
-### 5. Experimental Correspondence
+### 4. Experimental Correspondence
 While behavior is qualitatively similar to historical observations, this simulation does not yet establish:
 - Quantitative agreement with experiments
 - Reproducible physical implementation
